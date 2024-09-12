@@ -25,7 +25,7 @@ size_x = 128
 size_y = 128
 time_steps = 42  # Number of time steps
 
-train_data_dir ="/home/sachin00/karmo005/Downloads/BW_transient_code/Bose_run_codes/Train_Unet_transient"     #old training data
+train_data_dir ="Training_data_dir"     #training data
 
 
 def extract_numeric_part(filename, pattern):
