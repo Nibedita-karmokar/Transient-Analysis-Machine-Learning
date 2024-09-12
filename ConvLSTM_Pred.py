@@ -20,7 +20,7 @@ size_x = 128
 size_y = 128
 time_steps = 42  # Number of time steps
 
-test_data_dir ="/home/sachin00/karmo005/Downloads/BW_transient_code/Bose_run_codes/Train_Unet_transient/excel_files_new_64_46.0"
+test_data_dir ="Test_data_dir"
 
 def extract_numeric_part(filename, pattern):
     match = re.search(pattern, filename)
